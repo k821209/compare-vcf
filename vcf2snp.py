@@ -129,7 +129,10 @@ for genename in tqdm(df_gff_cds_ix.index):
 print('start SNP gathering')
 Outfile_nonsynalign = open('pepper.allgenes.non-syn.snp.align.txt','w')
 Outfile_snp_pos     = open('pepper.allgenes.snp.pos.txt','w')
-for genename in tqdm(dic_genename_cds):
+
+genenamelist = dic_genename_cds
+#genenamelist = ['CA03g17620']
+for genename in tqdm(genenamelist):
     g_left  = df_gff_gene_ix.loc[genename][3]
     g_right = df_gff_gene_ix.loc[genename][4]
     
@@ -151,6 +154,7 @@ for genename in tqdm(dic_genename_cds):
     # SNP cds positions
     cds_mask = (cds_array[g_left-1:g_right]>0)
     cds_snp_mask = (snp_mask & cds_mask)
+    cds_poly_pos = []
     for pos in cds_snp_mask.nonzero()[1]:
         refpos  = pos+g_left-1 # zerobase
         refbase = dic_ref_fa[chromosome][refpos]
@@ -160,7 +164,7 @@ for genename in tqdm(dic_genename_cds):
             print ('CDS SNP ref',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
         else:
             print ('CDS SNP among',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
-    
+            cds_poly_pos.append(pos)
     mask = cds_snp_mask
     
     if len(mask.nonzero()[0]) > 0:
@@ -210,7 +214,7 @@ for genename in tqdm(dic_genename_cds):
         for n,pos_snp in enumerate(pos_snp_array):
             if pos_snp/3 in pos_pepvar_array:
                 if strand == '+':
-                    pos = cds_snp_mask.nonzero()[1][n]
+                    pos = cds_poly_pos[n]
                     realpos = g_left + pos
                     refpos  = realpos-1 # zerobase
                     refbase = dic_ref_fa[chromosome][refpos]
@@ -221,8 +225,9 @@ for genename in tqdm(dic_genename_cds):
                     else:
                         print ('nonsyn SNP among',chromosome, realpos,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
                 else:
-                    pos = cds_snp_mask.nonzero()[1][-(n+1)]
-                    realpos = g_left + pos
+                    #print (n,pos_snp,file=Outfile_snp_pos)
+                    pos = cds_poly_pos[-(n+1)]
+                    realpos = g_left +  pos
                     refpos  = realpos-1 # zerobase
                     refbase = dic_ref_fa[chromosome][refpos]
                     bases = [refbase if x == 0 else dic_base_rev[x] for x in np.array(matrix_snp[:,pos].T)[0]]
