@@ -1,0 +1,699 @@
+	genename	annotation
+0	CA01g01390	PREDICTED: putative leucine-rich repeat-containing protein DDB_G0290503-like isoform X2 [Solanum tuberosum]
+1	CA01g01460	Leucine-rich repeat protein kinase family protein isoform 1 [Theobroma cacao]
+2	CA01g01540	NBS-LRR type resistance protein
+3	CA01g02380	Tir-nbs resistance protein
+4	CA01g03960	Leucine-rich repeat transmembrane protein kinase, putative
+5	CA01g04860	F-box/FBD/LRR-repeat protein
+6	CA01g06630	PREDICTED: brassinosteroid LRR receptor kinase-like [Solanum tuberosum]
+7	CA01g07830	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+8	CA01g07840	PREDICTED: F-box/FBD/LRR-repeat protein At3g52680-like [Solanum tuberosum]
+9	CA01g07860	PREDICTED: putative F-box/LRR-repeat protein At5g02930-like isoform X1 [Solanum tuberosum]
+10	CA01g08290	NBS-LRR resistance protein
+11	CA01g08540	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+12	CA01g08550	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+13	CA01g08660	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+14	CA01g08670	Leucine-rich repeat protein kinase family protein, putative [Theobroma cacao]
+15	CA01g08880	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+16	CA01g08900	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+17	CA01g09570	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+18	CA01g09580	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+19	CA01g09690	putative LRR receptor-like serine/threonine-protein kinase [Arabidopsis thaliana]
+20	CA01g09960	Leucine-rich repeat protein kinase family protein, putative [Theobroma cacao]
+21	CA01g10670	Leucine-rich repeat-containing protein 50 [Theobroma cacao]
+22	CA01g10970	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g34110-like [Solanum lycopersicum]
+23	CA01g17380	NBS-LRR type disease resistance protein (Fragment)
+24	CA01g17390	Nbs-lrr resistance protein
+25	CA01g18010	Putative leucine-rich repeat resistance protein, identical
+26	CA01g18050	Putative leucine-rich repeat resistance protein, identical
+27	CA01g18520	Nbs-lrr resistance protein
+28	CA01g18830	PREDICTED: putative leucine-rich repeat-containing protein DDB_G0290503-like [Cicer arietinum]
+29	CA01g21220	PREDICTED: putative leucine-rich repeat-containing protein DDB_G0290503-like [Solanum tuberosum]
+30	CA01g21350	Cc-nbs-lrr resistance protein
+31	CA01g21360	Leucine-rich repeat containing protein, putative
+32	CA01g25310	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+33	CA01g28120	PREDICTED: F-box/FBD/LRR-repeat protein At3g52680-like [Solanum tuberosum]
+34	CA01g28130	F-box/FBD/LRR-repeat protein
+35	CA01g28140	PREDICTED: F-box/FBD/LRR-repeat protein At3g52680-like [Solanum tuberosum]
+36	CA01g28690	PREDICTED: F-box/LRR-repeat protein At5g02910-like [Solanum tuberosum]
+37	CA01g28760	PREDICTED: putative F-box/LRR-repeat protein At3g28410-like [Solanum tuberosum]
+38	CA01g29400	PREDICTED: pollen-specific leucine-rich repeat extensin-like protein 2-like [Solanum tuberosum]
+39	CA01g29940	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum tuberosum]
+40	CA01g30000	Cc-nbs-lrr resistance protein
+41	CA01g30080	PREDICTED: putative F-box/LRR-repeat protein At3g28410-like [Solanum tuberosum]
+42	CA01g30090	PREDICTED: F-box/LRR-repeat protein 25-like [Solanum tuberosum]
+43	CA01g30100	PREDICTED: putative F-box/LRR-repeat protein At3g28410-like [Solanum tuberosum]
+44	CA01g31430	Cc-nbs-lrr resistance protein
+45	CA01g31440	Leucine-rich repeat containing protein, putative
+46	CA01g32670	Leucine-rich repeat transmembrane protein kinase
+47	CA02g01520	Elicitor-inducible LRR receptor-like protein EILP
+48	CA02g01870	Leucine-rich repeat-containing protein
+49	CA02g02060	PREDICTED: leucine-rich repeat-containing protein 40-like [Solanum lycopersicum]
+50	CA02g05550	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+51	CA02g05560	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+52	CA02g07380	PREDICTED: probable leucine-rich repeat receptor-like protein kinase At5g49770-like [Solanum tuberosum]
+53	CA02g07450	Putative leucine-rich repeat resistance protein, identical
+54	CA02g07840	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum tuberosum]
+55	CA02g09120	Leucine-rich repeat protein, putative
+56	CA02g09820	PREDICTED: LRR receptor-like serine/threonine-protein kinase RPK2-like [Glycine max]
+57	CA02g09900	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+58	CA02g09930	Putative leucine-rich repeat resistance protein, identical
+59	CA02g10000	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+60	CA02g10020	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+61	CA02g10040	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+62	CA02g10060	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+63	CA02g10070	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+64	CA02g10080	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+65	CA02g10090	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+66	CA02g10680	PREDICTED: putative F-box/LRR-repeat protein 23-like [Solanum tuberosum]
+67	CA02g10720	Nbs-lrr resistance protein
+68	CA02g10730	Nbs-lrr resistance protein
+69	CA02g10750	NBS-coding resistance gene analog (Fragment)
+70	CA02g11830	Nbs-lrr resistance protein
+71	CA02g11860	Nbs-lrr resistance protein
+72	CA02g11870	Nbs-lrr resistance protein
+73	CA02g12010	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum tuberosum]
+74	CA02g12020	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum lycopersicum]
+75	CA02g12030	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum tuberosum]
+76	CA02g12910	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+77	CA02g12920	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like isoform X2 [Solanum tuberosum]
+78	CA02g13090	Leucine-rich repeat family protein / protein kinase family protein
+79	CA02g13110	Leucine-rich repeat family protein / protein kinase family protein
+80	CA02g13130	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07650-like [Solanum tuberosum]
+81	CA02g13140	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07650-like [Solanum tuberosum]
+82	CA02g13150	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07650-like [Solanum tuberosum]
+83	CA02g13160	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07650-like [Solanum tuberosum]
+84	CA02g13180	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase RFK1-like [Solanum tuberosum]
+85	CA02g13550	Putative leucine-rich repeat family protein
+86	CA02g13620	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At5g45780-like isoform X1 [Solanum tuberosum]
+87	CA02g13670	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+88	CA02g13680	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+89	CA02g13690	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+90	CA02g13700	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+91	CA02g13720	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+92	CA02g13730	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+93	CA02g13740	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+94	CA02g13750	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+95	CA02g15510	Leucine-rich repeat receptor-like protein kinase (Fragment)
+96	CA02g16690	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Vitis vinifera]
+97	CA02g16700	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Vitis vinifera]
+98	CA02g16710	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+99	CA02g16720	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Vitis vinifera]
+100	CA02g16740	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Vitis vinifera]
+101	CA02g19460	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+102	CA02g21230	Leucine-rich repeat-containing protein, putative
+103	CA02g25340	PREDICTED: F-box/LRR-repeat protein At5g02910-like isoform X1 [Solanum tuberosum]
+104	CA02g30020	F-box/LRR-repeat protein, putative
+105	CA02g30660	Leucine-rich repeat protein, putative
+106	CA03g00200	Tir-nbs-lrr resistance protein (Fragment)
+107	CA03g00250	Tir-nbs-lrr resistance protein (Fragment)
+108	CA03g00260	Tir-nbs-lrr resistance protein (Fragment)
+109	CA03g00310	F-box/LRR-repeat protein
+110	CA03g00700	TIR-NBS-LRR disease resistance-like protein
+111	CA03g00710	Tir-nbs-lrr resistance protein (Fragment)
+112	CA03g00730	Tir-nbs-lrr resistance protein (Fragment)
+113	CA03g01770	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+114	CA03g01780	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum tuberosum]
+115	CA03g01830	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum tuberosum]
+116	CA03g01850	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+117	CA03g02230	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+118	CA03g02450	Cc-nbs-lrr resistance protein
+119	CA03g02460	NBS resistance protein
+120	CA03g02480	Putative CC-NBS-LRR resistance protein
+121	CA03g02490	NBS resistance protein
+122	CA03g02500	NBS-LRR resistance protein RGH1
+123	CA03g02510	NBS resistance protein
+124	CA03g03410	Cc-nbs-lrr resistance protein
+125	CA03g03420	Putative CC-NBS-LRR resistance protein
+126	CA03g03440	Cc-nbs-lrr resistance protein
+127	CA03g03460	NBS-LRR resistance protein RGH1
+128	CA03g03480	Putative CC-NBS-LRR resistance protein
+129	CA03g03510	NBS-LRR resistance protein RGH2
+130	CA03g04340	Putative CC-NBS-LRR resistance protein
+131	CA03g04420	PREDICTED: MATH and LRR domain-containing protein PFE0570w-like [Solanum tuberosum]
+132	CA03g04510	Putative CC-NBS-LRR protein
+133	CA03g04520	NBS-coding resistance protein (Fragment)
+134	CA03g04600	Putative CC-NBS-LRR resistance protein
+135	CA03g04630	Leucine-rich repeat containing protein, putative
+136	CA03g05740	PREDICTED: probable leucine-rich repeat receptor-like protein kinase At1g35710-like [Solanum tuberosum]
+137	CA03g06600	F-box/LRR-repeat protein
+138	CA03g08820	PREDICTED: LRR receptor-like serine/threonine-protein kinase ERL1-like [Solanum lycopersicum]
+139	CA03g09160	F-box/LRR-repeat protein
+140	CA03g09230	CC-NBS-LRR type resistance protein (Fragment)
+141	CA03g09240	CC-NBS-LRR type resistance protein (Fragment)
+142	CA03g12280	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At5g10290-like [Solanum lycopersicum]
+143	CA03g15770	PREDICTED: leucine-rich repeat receptor-like protein kinase TDR-like [Vitis vinifera]
+144	CA03g16340	Leucine-rich repeat receptor protein kinase exs, putative
+145	CA03g17140	Leucine-rich repeat protein kinase
+146	CA03g19980	Putative CC-NBS-LRR resistance protein
+147	CA03g21460	PREDICTED: leucine-rich repeat receptor-like protein kinase PEPR1 [Vitis vinifera]
+148	CA03g29480	Leucine-rich repeat family protein isoform 1 [Theobroma cacao]
+149	CA03g29650	Brassinosteroid LRR receptor kinase, putative
+150	CA03g32320	F-box/LRR-repeat protein, putative
+151	CA03g32330	F-box/LRR-repeat protein
+152	CA03g34010	PREDICTED: F-box/LRR-repeat protein At3g03360-like [Solanum tuberosum]
+153	CA03g36840	Leucine-rich repeat receptor protein kinase EXS, putative
+154	CA04g00840	PREDICTED: putative F-box/FBD/LRR-repeat protein At4g13965-like [Solanum tuberosum]
+155	CA04g00920	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+156	CA04g00940	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+157	CA04g00950	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+158	CA04g00970	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+159	CA04g01010	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum lycopersicum]
+160	CA04g01020	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+161	CA04g01040	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+162	CA04g01050	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+163	CA04g01100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53430-like isoform X1 [Solanum tuberosum]
+164	CA04g01180	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53430-like isoform X1 [Solanum tuberosum]
+165	CA04g01200	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53440-like isoform X6 [Setaria italica]
+166	CA04g01230	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07650-like [Solanum lycopersicum]
+167	CA04g01290	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+168	CA04g01630	Leucine-rich repeat receptor-like protein kinase
+169	CA04g01750	NB-LRR type disease resistance protein
+170	CA04g01840	F-box/FBD/LRR-repeat protein
+171	CA04g01850	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+172	CA04g01860	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+173	CA04g01880	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+174	CA04g01890	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+175	CA04g01900	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+176	CA04g01910	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+177	CA04g01920	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+178	CA04g01930	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+179	CA04g01940	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+180	CA04g01950	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+181	CA04g01960	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+182	CA04g01970	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum lycopersicum]
+183	CA04g01980	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+184	CA04g01990	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+185	CA04g02020	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+186	CA04g02030	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+187	CA04g02040	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+188	CA04g02050	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+189	CA04g02060	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+190	CA04g02080	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+191	CA04g02090	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+192	CA04g02100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+193	CA04g02120	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+194	CA04g02130	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+195	CA04g02140	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+196	CA04g02160	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+197	CA04g02170	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+198	CA04g02180	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+199	CA04g02190	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+200	CA04g02200	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+201	CA04g02220	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+202	CA04g02250	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+203	CA04g02270	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+204	CA04g02280	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+205	CA04g02290	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+206	CA04g02300	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+207	CA04g02310	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+208	CA04g02350	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+209	CA04g02560	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g56130-like [Solanum lycopersicum]
+210	CA04g02830	TIR-NBS type disease resistance protein
+211	CA04g02910	Cc-nbs-lrr resistance protein, putative isoform 1 [Theobroma cacao]
+212	CA04g02930	LRR and NB-ARC domains-containing disease resistance protein, putative isoform 1 [Theobroma cacao]
+213	CA04g03480	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53440-like [Vitis vinifera]
+214	CA04g03660	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+215	CA04g03670	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+216	CA04g03730	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+217	CA04g03770	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+218	CA04g03780	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+219	CA04g03790	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+220	CA04g03820	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+221	CA04g03840	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like, partial [Solanum tuberosum]
+222	CA04g03870	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+223	CA04g03880	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+224	CA04g03890	Leucine-rich repeat receptor protein kinase EXS, putative
+225	CA04g03900	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+226	CA04g03910	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+227	CA04g03920	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+228	CA04g03960	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+229	CA04g03970	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+230	CA04g04320	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+231	CA04g04340	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+232	CA04g04350	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+233	CA04g04360	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+234	CA04g04370	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+235	CA04g04380	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+236	CA04g04390	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+237	CA04g04400	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+238	CA04g04410	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+239	CA04g04420	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+240	CA04g04430	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+241	CA04g04460	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+242	CA04g04470	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+243	CA04g04540	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+244	CA04g04560	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+245	CA04g04580	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+246	CA04g04590	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+247	CA04g04600	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+248	CA04g04610	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+249	CA04g04620	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+250	CA04g04630	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+251	CA04g04640	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+252	CA04g04650	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g34110-like [Solanum tuberosum]
+253	CA04g04660	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+254	CA04g04750	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+255	CA04g04800	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+256	CA04g04820	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+257	CA04g04830	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+258	CA04g04840	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+259	CA04g04850	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+260	CA04g04860	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+261	CA04g04870	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+262	CA04g04930	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+263	CA04g04940	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+264	CA04g04960	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+265	CA04g04970	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+266	CA04g04990	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+267	CA04g05000	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+268	CA04g05010	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+269	CA04g05030	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+270	CA04g05040	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+271	CA04g05060	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+272	CA04g05070	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+273	CA04g05080	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+274	CA04g05100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+275	CA04g05110	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+276	CA04g05120	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum lycopersicum]
+277	CA04g05130	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+278	CA04g05140	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+279	CA04g05600	CC-NBS-LRR type resistance-like protein
+280	CA04g05620	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+281	CA04g06160	PREDICTED: acidic leucine-rich nuclear phosphoprotein 32-related protein-like [Glycine max]
+282	CA04g06200	Leucine-rich repeat protein, putative
+283	CA04g06290	NBS-coding resistance gene analog (Fragment)
+284	CA04g06900	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+285	CA04g08850	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Solanum tuberosum]
+286	CA04g08860	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Solanum lycopersicum]
+287	CA04g08870	PREDICTED: probable leucine-rich repeat receptor-like protein kinase At1g35710-like [Solanum tuberosum]
+288	CA04g09070	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Solanum lycopersicum]
+289	CA04g09080	LRR-GTPase of the ROCO family
+290	CA04g09600	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g37250-like [Glycine max]
+291	CA04g11590	PREDICTED: leucine-rich repeat receptor-like tyrosine-protein kinase At2g41820-like [Solanum tuberosum]
+292	CA04g11610	PREDICTED: leucine-rich repeat receptor-like tyrosine-protein kinase At2g41820-like [Solanum tuberosum]
+293	CA04g13320	TIR-NBS-LRR RCT1 resistance protein (Fragment)
+294	CA04g13340	Nls-tir-nbs-lrr resistance protein (Fragment)
+295	CA04g13350	Tir-nbs-lrr resistance protein (Fragment)
+296	CA04g13800	Leucine-rich repeat family protein / protein kinase family protein
+297	CA04g14230	Leucine-rich repeat receptor protein kinase EXS, putative
+298	CA04g14940	PREDICTED: probable leucine-rich repeat receptor-like protein kinase At1g35710-like [Solanum tuberosum]
+299	CA04g14950	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Solanum tuberosum]
+300	CA04g15210	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+301	CA04g15480	PREDICTED: probable leucine-rich repeat receptor-like protein kinase At1g35710-like [Solanum tuberosum]
+302	CA04g16350	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum tuberosum]
+303	CA04g17790	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Citrus sinensis]
+304	CA04g17800	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Citrus sinensis]
+305	CA04g19370	Nbs-lrr resistance protein
+306	CA05g00030	Cc-nbs-lrr resistance protein
+307	CA05g00730	PREDICTED: F-box/LRR-repeat protein At5g63520-like [Solanum lycopersicum]
+308	CA05g00740	PREDICTED: F-box/LRR-repeat protein At5g63520-like [Solanum tuberosum]
+309	CA05g01140	PREDICTED: leucine-rich repeat receptor-like tyrosine-protein kinase At2g41820-like [Solanum lycopersicum]
+310	CA05g01170	Leucine-rich repeat containing protein, putative
+311	CA05g01180	NBS-LRR protein (Fragment)
+312	CA05g01190	Leucine-rich repeat containing protein, putative
+313	CA05g01210	Leucine-rich repeat containing protein, putative
+314	CA05g01220	Leucine-rich repeat containing protein, putative
+315	CA05g02000	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum lycopersicum]
+316	CA05g02010	PREDICTED: LRR receptor-like serine/threonine-protein kinase ERL2-like [Solanum tuberosum]
+317	CA05g02040	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum lycopersicum]
+318	CA05g02090	CC-NBS-LRR type resistance protein (Fragment)
+319	CA05g02230	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+320	CA05g02240	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+321	CA05g02250	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+322	CA05g02260	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+323	CA05g02270	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+324	CA05g02280	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+325	CA05g02290	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+326	CA05g02300	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum tuberosum]
+327	CA05g02310	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+328	CA05g02340	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+329	CA05g02350	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+330	CA05g02360	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+331	CA05g02370	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+332	CA05g02380	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+333	CA05g02390	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+334	CA05g02420	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+335	CA05g02440	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+336	CA05g02650	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+337	CA05g02670	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+338	CA05g02730	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+339	CA05g02740	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+340	CA05g02750	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+341	CA05g02760	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+342	CA05g02770	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+343	CA05g02780	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+344	CA05g02790	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+345	CA05g03880	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+346	CA05g05460	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+347	CA05g05520	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+348	CA05g05530	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+349	CA05g05570	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+350	CA05g05590	PREDICTED: LRR receptor-like serine/threonine-protein kinase EFR-like [Solanum tuberosum]
+351	CA05g05810	PREDICTED: F-box/LRR-repeat protein 2-like [Solanum tuberosum]
+352	CA05g06470	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+353	CA05g06750	Putative leucine-rich repeat resistance protein, identical
+354	CA05g07840	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+355	CA05g08430	Leucine-rich repeat receptor-like kinase
+356	CA05g08950	Leucine-rich repeat receptor-like kinase
+357	CA05g08960	Leucine-rich repeat receptor-like kinase
+358	CA05g11040	Leucine-rich repeat protein, putative
+359	CA05g12420	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+360	CA05g12430	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+361	CA05g13330	Leucine-rich repeat receptor-like protein kinase
+362	CA05g13820	NBS-coding resistance gene analog (Fragment)
+363	CA05g13860	NBS-LRR resistance protein-like protein
+364	CA05g14070	LRR and NB-ARC domains-containing disease resistance protein, putative isoform 1 [Theobroma cacao]
+365	CA05g14310	NBS-coding resistance gene analog (Fragment)
+366	CA05g14410	PREDICTED: leucine-rich repeat receptor-like protein kinase TDR-like [Solanum lycopersicum]
+367	CA05g15250	NBS-coding resistance gene analog (Fragment)
+368	CA05g15340	NBS-LRR resistance protein-like protein
+369	CA05g15440	NBS-LRR resistance protein-like protein
+370	CA05g15550	PREDICTED: probably inactive leucine-rich repeat receptor-like protein kinase IMK2-like [Solanum tuberosum]
+371	CA05g15600	NBS-LRR resistance protein-like protein
+372	CA05g15650	NBS-LRR resistance protein-like protein
+373	CA05g16420	Truncated NBS-LRR resistance protein-like protein
+374	CA05g18570	Leucine-rich repeat receptor protein kinase EXS, putative
+375	CA05g18600	LRR protein WM1.2
+376	CA05g18830	NBS-LRR resistance protein-like protein
+377	CA05g18930	NBS-coding resistance gene analog (Fragment)
+378	CA05g18960	NBS-coding resistance gene analog (Fragment)
+379	CA05g19400	Leucine-rich repeat receptor protein kinase EXS, putative
+380	CA05g19420	Leucine-rich repeat receptor protein kinase EXS, putative
+381	CA05g19430	Leucine-rich repeat receptor protein kinase EXS, putative
+382	CA05g19440	Leucine-rich repeat receptor protein kinase EXS, putative
+383	CA05g19450	Leucine-rich repeat receptor protein kinase EXS, putative
+384	CA05g19460	Leucine-rich repeat receptor protein kinase EXS, putative
+385	CA05g19470	Leucine-rich repeat receptor protein kinase EXS, putative
+386	CA05g19500	Leucine-rich repeat receptor protein kinase EXS, putative
+387	CA05g19510	Leucine-rich repeat receptor protein kinase EXS, putative
+388	CA05g19520	Leucine-rich repeat receptor protein kinase EXS, putative
+389	CA05g19890	NBS-coding resistance gene analog (Fragment)
+390	CA06g00530	Truncated NBS-LRR resistance protein-like protein
+391	CA06g00610	NBS-LRR resistance protein-like protein
+392	CA06g00650	NBS-LRR resistance protein-like protein
+393	CA06g00710	NBS-LRR resistance protein-like protein
+394	CA06g00720	NBS-LRR resistance protein-like protein
+395	CA06g00730	NBS-LRR root-knot nematode resistance protein
+396	CA06g00760	NBS-LRR resistance protein-like protein
+397	CA06g00820	Truncated NBS-LRR resistance protein-like protein
+398	CA06g00840	NBS-coding resistance gene analog (Fragment)
+399	CA06g00870	TIR1-like protein
+400	CA06g00890	NBS-LRR resistance protein-like protein
+401	CA06g00910	NBS-LRR resistance protein-like protein
+402	CA06g00930	NBS-LRR resistance protein-like protein
+403	CA06g00940	NBS-LRR resistance protein-like protein
+404	CA06g00950	NBS-LRR resistance protein-like protein
+405	CA06g00970	NBS-LRR root-knot nematode resistance protein
+406	CA06g00980	NBS-LRR root-knot nematode resistance protein
+407	CA06g00990	NBS-LRR resistance protein-like protein
+408	CA06g01010	NBS-LRR resistance protein-like protein
+409	CA06g01040	NBS-LRR resistance protein-like protein
+410	CA06g01130	NBS-LRR resistance protein-like protein
+411	CA06g01350	NBS-LRR resistance protein-like protein
+412	CA06g01730	NBS-LRR resistance protein-like protein
+413	CA06g01760	NBS-LRR resistance protein-like protein
+414	CA06g02020	NBS-coding resistance gene analog (Fragment)
+415	CA06g02070	NBS-LRR resistance protein-like protein
+416	CA06g02080	NBS-LRR resistance protein-like protein
+417	CA06g02100	NBS-LRR resistance protein-like protein
+418	CA06g02110	NBS-LRR resistance protein-like protein
+419	CA06g02150	NBS-LRR resistance protein-like protein
+420	CA06g02160	NBS-LRR resistance protein-like protein
+421	CA06g02420	NBS-LRR root-knot nematode resistance protein
+422	CA06g02450	NBS-LRR resistance protein-like protein
+423	CA06g02470	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+424	CA06g02650	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Vitis vinifera]
+425	CA06g02700	NBS-LRR resistance protein-like protein
+426	CA06g02810	NBS-LRR resistance protein-like protein
+427	CA06g03110	Leucine-rich repeat receptor protein kinase EXS, putative
+428	CA06g03230	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g74360-like [Solanum lycopersicum]
+429	CA06g03400	NBS-LRR resistance protein-like protein
+430	CA06g03410	NBS-LRR resistance protein-like protein
+431	CA06g03460	NBS-LRR resistance protein-like protein
+432	CA06g03620	NBS-LRR resistance protein-like protein
+433	CA06g03650	NBS-LRR resistance protein-like protein
+434	CA06g03660	PREDICTED: LRR repeats and ubiquitin-like domain-containing protein At2g30105-like [Solanum tuberosum]
+435	CA06g05050	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+436	CA06g05060	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+437	CA06g05070	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+438	CA06g05100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+439	CA06g05120	NBS-LRR resistance protein-like protein
+440	CA06g05180	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+441	CA06g05200	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+442	CA06g05230	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+443	CA06g06190	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+444	CA06g06200	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Solanum tuberosum]
+445	CA06g06210	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+446	CA06g06230	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+447	CA06g07500	Leucine-rich repeat transmembrane protein kinase, putative [Theobroma cacao]
+448	CA06g07610	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+449	CA06g08100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Citrus sinensis]
+450	CA06g10160	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+451	CA06g10840	CC-NBS-LRR type resistance-like protein
+452	CA06g10860	CC-NBS-LRR type resistance protein (Fragment)
+453	CA06g12380	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+454	CA06g14730	CC-NBS-LRR type resistance protein (Fragment)
+455	CA06g14740	CC-NBS-LRR type resistance protein (Fragment)
+456	CA06g14800	NBS-coding resistance gene protein (Fragment)
+457	CA06g14860	NBS-coding resistance gene protein (Fragment)
+458	CA06g15040	NBS-coding resistance gene protein (Fragment)
+459	CA06g15060	NBS-containing resistance-like protein
+460	CA06g15500	Leucine-rich repeat receptor-like protein kinase (Fragment)
+461	CA06g16080	F-box/LRR-repeat protein
+462	CA06g16180	PREDICTED: putative leucine-rich repeat-containing protein DDB_G0290503-like [Solanum tuberosum]
+463	CA06g16290	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum tuberosum]
+464	CA06g18700	Brassinosteroid LRR receptor kinase, putative
+465	CA06g18940	Leucine-rich repeat receptor protein kinase EXS, putative
+466	CA06g18980	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+467	CA06g25250	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum lycopersicum]
+468	CA06g26250	Probably inactive leucine-rich repeat receptor-like protein kinase
+469	CA06g26680	Leucine-rich repeat family protein
+470	CA06g27750	PREDICTED: F-box/LRR-repeat protein 17-like [Solanum lycopersicum]
+471	CA07g00260	LRR receptor-like serine/threonine-protein kinase [Theobroma cacao]
+472	CA07g00420	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+473	CA07g00750	NBS-coding resistance gene analog (Fragment)
+474	CA07g00790	NBS-coding resistance gene analog (Fragment)
+475	CA07g00810	NBS-coding resistance gene analog (Fragment)
+476	CA07g00850	NBS-coding resistance gene analog (Fragment)
+477	CA07g00960	NBS-coding resistance gene analog (Fragment)
+478	CA07g01000	NBS-coding resistance gene analog (Fragment)
+479	CA07g01030	NBS-coding resistance gene analog (Fragment)
+480	CA07g01120	NBS-coding resistance gene analog (Fragment)
+481	CA07g01720	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+482	CA07g06770	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Vitis vinifera]
+483	CA07g07240	PREDICTED: pollen-specific leucine-rich repeat extensin-like protein 1-like [Solanum tuberosum]
+484	CA07g07540	Putative leucine-rich repeat resistance protein, identical
+485	CA07g08730	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum lycopersicum]
+486	CA07g08810	Leucine-rich repeat-containing protein, putative
+487	CA07g08970	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+488	CA07g12620	NBS-LRR type disease resistance protein
+489	CA07g12630	NBS-LRR type disease resistance protein
+490	CA07g12640	NBS-LRR type disease resistance protein
+491	CA07g13210	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+492	CA07g13260	F-box/FBD/LRR-repeat protein
+493	CA07g13280	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+494	CA07g13300	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+495	CA07g13370	LRR receptor-like kinase
+496	CA07g13380	LRR receptor-like kinase
+497	CA07g13390	LRR receptor-like kinase
+498	CA07g14100	PREDICTED: pollen-specific leucine-rich repeat extensin-like protein 1-like [Citrus sinensis]
+499	CA07g15990	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like isoform X2 [Solanum tuberosum]
+500	CA07g16030	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Vitis vinifera]
+501	CA07g16290	PREDICTED: leucine-rich repeat receptor-like serine/threonine-protein kinase At1g17230-like [Solanum tuberosum]
+502	CA07g16340	PREDICTED: leucine-rich repeat extensin-like protein 3-like [Citrus sinensis]
+503	CA07g19460	F-box/LRR-repeat protein
+504	CA07g20140	Leucine-rich repeat receptor-like protein kinase
+505	CA07g21220	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g56130-like [Cucumis sativus]
+506	CA08g00290	NBS-coding resistance gene analog (Fragment)
+507	CA08g00980	Leucine-rich repeat receptor-like protein kinase (Fragment)
+508	CA08g01420	NBS-coding resistance gene analog (Fragment)
+509	CA08g01980	NBS-coding resistance gene protein (Fragment)
+510	CA08g02000	NBS-LRR protein
+511	CA08g02100	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g08850-like [Citrus sinensis]
+512	CA08g03970	PREDICTED: putative F-box/LRR-repeat protein At3g28410-like [Solanum tuberosum]
+513	CA08g12970	Leucine-rich repeat-containing protein, putative
+514	CA08g13570	Leucine-rich repeat family protein / protein kinase family protein
+515	CA08g13740	Leucine-rich repeat-containing protein, putative
+516	CA08g13750	Leucine-rich repeat-containing protein, putative
+517	CA08g13780	Leucine-rich repeat-containing protein, putative
+518	CA08g13800	Leucine-rich repeat-containing protein, putative
+519	CA08g13810	Leucine-rich repeat-containing protein, putative
+520	CA08g14700	Leucine-rich repeat-containing protein, putative
+521	CA08g17840	LRR receptor-like protein kinase
+522	CA08g17900	pollen-specific leucine-rich repeat extensin-like protein 4 [Arabidopsis thaliana]
+523	CA08g19120	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+524	CA08g19640	F-box/LRR-repeat protein
+525	CA09g00400	PREDICTED: F-box/FBD/LRR-repeat protein At3g52680-like [Solanum tuberosum]
+526	CA09g00670	Nucleotide binding site and leucine rich repeat protein 3 (Fragment)
+527	CA09g00940	PREDICTED: F-box/LRR-repeat protein At1g67190-like [Solanum tuberosum]
+528	CA09g01260	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+529	CA09g02860	PREDICTED: F-box/FBD/LRR-repeat protein At2g26030-like [Solanum tuberosum]
+530	CA09g03260	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g67720-like [Solanum tuberosum]
+531	CA09g04020	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53430-like isoform X1 [Solanum tuberosum]
+532	CA09g04030	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+533	CA09g04050	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+534	CA09g04270	F-box/LRR-repeat protein
+535	CA09g07620	BED finger-nbs-lrr resistance protein
+536	CA09g07630	BED finger-nbs-lrr resistance protein
+537	CA09g07960	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Solanum lycopersicum]
+538	CA09g08580	Putative leucine-rich repeat resistance protein, identical
+539	CA09g10630	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g06840-like isoform X1 [Citrus sinensis]
+540	CA09g11470	Nbs-lrr resistance protein
+541	CA09g12340	PREDICTED: probable leucine-rich repeat receptor-like serine/threonine-protein kinase At3g14840-like [Solanum lycopersicum]
+542	CA09g12500	Brassinosteroid LRR receptor kinase, putative
+543	CA09g12760	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g53430-like [Vitis vinifera]
+544	CA09g13930	NBS-coding resistance gene analog (Fragment)
+545	CA09g13950	NBS-coding resistance gene analog (Fragment)
+546	CA09g13960	NBS-coding resistance gene analog (Fragment)
+547	CA09g14080	Leucine-rich repeat-containing protein, putative
+548	CA09g14550	NBS-coding resistance gene analog (Fragment)
+549	CA09g14610	NBS-coding resistance gene analog (Fragment)
+550	CA09g15430	NBS-coding resistance gene analog (Fragment)
+551	CA09g15760	PREDICTED: leucine-rich repeat extensin-like protein 3-like [Citrus sinensis]
+552	CA09g15850	NBS-coding resistance gene analog (Fragment)
+553	CA09g15880	NBS-coding resistance gene analog (Fragment)
+554	CA09g15930	NBS-coding resistance gene analog (Fragment)
+555	CA09g16060	NBS-coding resistance gene analog (Fragment)
+556	CA09g16080	NBS-coding resistance gene analog (Fragment)
+557	CA09g16110	NBS-coding resistance gene analog (Fragment)
+558	CA09g16200	NBS-coding resistance gene analog (Fragment)
+559	CA09g16260	NBS-coding resistance gene analog (Fragment)
+560	CA09g16930	BED finger-nbs-lrr resistance protein
+561	CA09g17010	BED finger-nbs-lrr resistance protein
+562	CA09g17020	NBS-LRR type disease resistance protein (Fragment)
+563	CA09g17030	Nbs-lrr resistance protein
+564	CA09g17050	Nbs-lrr resistance protein
+565	CA09g17060	BED finger-nbs-lrr resistance protein
+566	CA09g17070	BED finger-nbs-lrr resistance protein
+567	CA09g17080	BED finger-nbs-lrr resistance protein
+568	CA09g17100	BED finger-nbs resistance protein
+569	CA09g17110	BED finger-nbs-lrr resistance protein
+570	CA09g17210	Leucine-rich repeat receptor-like protein kinase
+571	CA09g17470	NBS-coding resistance gene analog (Fragment)
+572	CA09g17520	NBS-coding resistance gene analog (Fragment)
+573	CA09g17550	NBS-coding resistance gene analog (Fragment)
+574	CA09g17580	NBS-coding resistance gene analog (Fragment)
+575	CA09g17590	NBS-coding resistance gene analog (Fragment)
+576	CA09g17630	NBS-coding resistance gene analog (Fragment)
+577	CA09g17670	NBS-coding resistance gene analog (Fragment)
+578	CA09g17700	NBS-coding resistance gene analog (Fragment)
+579	CA10g01730	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+580	CA10g01880	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+581	CA10g05010	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At2g16250-like [Solanum tuberosum]
+582	CA10g07290	Leucine-rich repeat family protein
+583	CA10g07890	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At2g16250-like isoform X1 [Citrus sinensis]
+584	CA10g09630	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g74360-like [Solanum lycopersicum]
+585	CA10g10550	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g06840-like [Solanum tuberosum]
+586	CA10g10560	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g06840-like [Solanum tuberosum]
+587	CA10g11340	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+588	CA10g11430	F-box/FBD/LRR-repeat protein
+589	CA10g13030	NBS-coding resistance gene analog (Fragment)
+590	CA10g13240	TIR-NBS-LRR type disease resistance protein [Medicago truncatula]
+591	CA10g15870	NBS resistance protein
+592	CA10g16060	Leucine-rich repeat receptor protein kinase EXS
+593	CA10g16470	PREDICTED: F-box/LRR-repeat protein At1g67190-like [Solanum tuberosum]
+594	CA10g18000	NBS-coding resistance gene analog (Fragment)
+595	CA10g18050	NBS-coding resistance gene analog (Fragment)
+596	CA10g18330	PREDICTED: probable inactive leucine-rich repeat receptor-like protein kinase At3g03770-like [Solanum tuberosum]
+597	CA10g18520	LRR protein
+598	CA10g19760	NBS resistance protein
+599	CA10g19790	Nbs-lrr resistance protein
+600	CA10g19900	NBS-LRR disease resistance protein (Fragment)
+601	CA10g20470	PREDICTED: leucine-rich repeat receptor-like tyrosine-protein kinase At2g41820-like [Solanum tuberosum]
+602	CA11g02190	Leucine-rich repeat receptor-like kinase
+603	CA11g02200	F-box/FBD/LRR-repeat protein
+604	CA11g02210	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+605	CA11g02230	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+606	CA11g02450	Nucleotide-binding site leucine-rich repeat protein (Fragment)
+607	CA11g02680	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g07550-like [Solanum tuberosum]
+608	CA11g02930	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+609	CA11g02940	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum tuberosum]
+610	CA11g04630	PREDICTED: F-box/LRR-repeat protein At3g03360-like [Solanum tuberosum]
+611	CA11g04830	NBS-coding resistance gene analog (Fragment)
+612	CA11g06180	Leucine-rich repeat containing protein, putative
+613	CA11g06190	Leucine-rich repeat containing protein, putative
+614	CA11g06210	Leucine-rich repeat containing protein, putative
+615	CA11g06220	Tir-nbs-lrr resistance protein
+616	CA11g06230	Tir-nbs-lrr resistance protein
+617	CA11g08110	Leucine-rich repeat receptor-like kinase
+618	CA11g10920	Leucine-rich repeat protein
+619	CA11g11210	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g67720-like [Vitis vinifera]
+620	CA11g11220	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At1g67720-like [Vitis vinifera]
+621	CA11g13460	PREDICTED: putative leucine-rich repeat receptor-like protein kinase At2g19210-like [Solanum tuberosum]
+622	CA11g14040	NBS-coding resistance gene analog (Fragment)
+623	CA11g14390	CC-NBS-LRR protein
+624	CA11g15590	CC-NBS-LRR type resistance-like protein (Fragment)
+625	CA11g16800	CC-NBS-LRR type resistance protein (Fragment)
+626	CA11g16810	CC-NBS-LRR type resistance protein (Fragment)
+627	CA11g16830	CC-NBS-LRR type resistance protein (Fragment)
+628	CA11g16840	CC-NBS-LRR type resistance-like protein
+629	CA11g16950	CC-NBS-LRR type resistance-like protein
+630	CA11g16960	CC-NBS-LRR type resistance protein (Fragment)
+631	CA11g17000	CC-NBS-LRR type resistance protein
+632	CA11g17190	CC-NBS-LRR type resistance protein (Fragment)
+633	CA11g17200	CC-NBS-LRR type resistance-like protein
+634	CA11g17210	CC-NBS-LRR type resistance protein (Fragment)
+635	CA11g17230	CC-NBS-LRR type resistance protein (Fragment)
+636	CA11g17260	CC-NBS-LRR type resistance protein (Fragment)
+637	CA11g17270	CC-NBS-LRR type resistance protein (Fragment)
+638	CA11g17290	CC-NBS-LRR type resistance protein (Fragment)
+639	CA11g17300	CC-NBS-LRR type resistance protein (Fragment)
+640	CA11g18720	CC-NBS-LRR type resistance protein (Fragment)
+641	CA11g19380	CC-NBS-LRR type resistance protein (Fragment)
+642	CA11g19450	CC-NBS-LRR type resistance protein (Fragment)
+643	CA11g19460	CC-NBS-LRR type resistance protein (Fragment)
+644	CA11g19470	CC-NBS-LRR type resistance protein (Fragment)
+645	CA11g19770	CC-NBS-LRR type resistance protein (Fragment)
+646	CA11g19780	CC-NBS-LRR type resistance protein
+647	CA11g19810	CC-NBS-LRR type resistance protein (Fragment)
+648	CA11g19820	CC-NBS-LRR type resistance protein (Fragment)
+649	CA11g19830	CC-NBS-LRR type resistance protein (Fragment)
+650	CA11g19840	CC-NBS-LRR type resistance protein (Fragment)
+651	CA11g19850	CC-NBS-LRR type resistance protein
+652	CA11g19860	CC-NBS-LRR type resistance protein (Fragment)
+653	CA11g19900	CC-NBS-LRR type resistance protein (Fragment)
+654	CA11g19910	CC-NBS-LRR type resistance protein (Fragment)
+655	CA11g19920	CC-NBS-LRR type resistance protein (Fragment)
+656	CA11g19930	CC-NBS-LRR type resistance protein (Fragment)
+657	CA11g19950	CC-NBS-LRR type resistance protein (Fragment)
+658	CA12g01950	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+659	CA12g01960	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like, partial [Solanum tuberosum]
+660	CA12g01970	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like [Solanum lycopersicum]
+661	CA12g01980	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like isoform X3 [Solanum tuberosum]
+662	CA12g02000	PREDICTED: F-box/FBD/LRR-repeat protein At1g13570-like isoform X2 [Solanum tuberosum]
+663	CA12g02010	F-box/FBD/LRR-repeat protein
+664	CA12g02650	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum lycopersicum]
+665	CA12g02660	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum lycopersicum]
+666	CA12g02670	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO1-like [Citrus sinensis]
+667	CA12g02700	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum lycopersicum]
+668	CA12g02740	F-box/FBD/LRR-repeat protein
+669	CA12g03490	NBS-LRR type disease resistance protein
+670	CA12g03500	Nbs-lrr resistance protein
+671	CA12g03570	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Vitis vinifera]
+672	CA12g03710	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At5g10290-like [Solanum lycopersicum]
+673	CA12g04520	PREDICTED: LRR receptor-like serine/threonine-protein kinase FLS2-like [Vitis vinifera]
+674	CA12g05510	Nbs-lrr resistance protein
+675	CA12g05800	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At4g36180-like [Solanum lycopersicum]
+676	CA12g06480	PREDICTED: LRR receptor-like serine/threonine-protein kinase GSO2-like [Solanum tuberosum]
+677	CA12g06490	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+678	CA12g06500	PREDICTED: probable LRR receptor-like serine/threonine-protein kinase At3g47570-like [Solanum tuberosum]
+679	CA12g07960	PREDICTED: putative leucine-rich repeat-containing protein DDB_G0290503-like [Solanum tuberosum]
+680	CA12g08150	PREDICTED: F-box/LRR-repeat protein At3g03360-like [Solanum tuberosum]
+681	CA12g08280	F-box/FBD/LRR-repeat protein
+682	CA12g08950	Leucine-rich repeat/extensin 1
+683	CA12g16150	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+684	CA12g16320	Tir-nbs-lrr resistance protein
+685	CA12g16330	PREDICTED: putative F-box/LRR-repeat protein At5g02700-like [Solanum lycopersicum]
+686	CA12g17210	Lrr receptor protein kinase, putative
+687	CA12g17250	pollen-specific leucine-rich repeat extensin-like protein 3 [Arabidopsis thaliana]
+688	CA12g18200	NBS resistance protein
+689	CA12g18780	F-box/LRR-repeat protein
+690	CA12g18800	Leucine-rich repeat protein, putative
+691	CA12g19490	PREDICTED: probably inactive leucine-rich repeat receptor-like protein kinase At5g48380-like [Solanum lycopersicum]
+692	CA12g19500	PREDICTED: probably inactive leucine-rich repeat receptor-like protein kinase At5g48380-like [Vitis vinifera]
+693	CA12g20460	NBS-coding resistance gene analog (Fragment)
+694	CA12g21440	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+695	CA12g21460	PREDICTED: putative F-box/LRR-repeat protein At3g18150-like [Solanum tuberosum]
+696	CA12g21910	Elicitor-inducible LRR receptor-like protein EILP
+697	CA12g21960	Elicitor-inducible LRR receptor-like protein EILP

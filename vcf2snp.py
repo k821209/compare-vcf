@@ -11,13 +11,15 @@ import textwrap
 # Reference index
 print('indexing references..')
 
-
+filename_align = 'out.align.txt'
+filename_pos   = 'out.pos.txt'
 file_ref_fa     = '/ref/analysis/juntaehwan/ref/Cannuum/Pepper.v.1.55.total.chr.fa.seeders.fa'
 file_gff       	= '/ref/analysis/juntaehwan/ref/Cannuum/Pepper_1.55.gene_models.gff3'
 file_ref_annotation = '/ref/analysis/juntaehwan/ref/Pepper.v.1.55.proteins.annotated.fasta'
 list_vcf       = ['/ref/analysis/juntaehwan/data/YCM334_samtools.raw.vcf','/ref/analysis/juntaehwan/data/Taeahn_samtools.raw.vcf']
                   #'/ref/analysis/juntaehwan/data/Perennial.SRR2751913.cv.vcf','/ref/analysis/juntaehwan/data/Dempsey.SRR2751914.cv.sambamba.vcf']
 list_vcf_label = ['YCM334','TAEAHN']#,'PERENN','DEMPSE'] 
+target_genelist = [x.strip() for x in open('nbslrr.txt').readlines()]
 
 
 dic_annotation_fa   = kang.Fasta2dic_all(file_ref_annotation)
@@ -127,11 +129,12 @@ for genename in tqdm(df_gff_cds_ix.index):
 
 # SNPs gathering
 print('start SNP gathering')
-Outfile_nonsynalign = open('pepper.allgenes.non-syn.snp.align.txt','w')
-Outfile_snp_pos     = open('pepper.allgenes.snp.pos.txt','w')
+Outfile_nonsynalign = open(filename_align,'w')
+Outfile_snp_pos     = open(filename_pos,'w')
 
 genenamelist = dic_genename_cds
 #genenamelist = ['CA03g17620']
+genenamelist = target_genelist
 for genename in tqdm(genenamelist):
     g_left  = df_gff_gene_ix.loc[genename][3]
     g_right = df_gff_gene_ix.loc[genename][4]
@@ -148,9 +151,9 @@ for genename in tqdm(genenamelist):
         bases   = [refbase if x == 0 else dic_base_rev[x] for x in np.array(matrix_snp[:,pos].T)[0]]
         context = dic_ref_fa[chromosome][refpos-20:refpos] +'(%s)'%('/'.join(bases)) + dic_ref_fa[chromosome][refpos+1:refpos+21]
         if len(set(bases)) == 1:
-            print ('Genomic SNP ref',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+            print ('Genomic SNP ref',chromosome,pos+g_left,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
         else:
-            print ('Genomic SNP among',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+            print ('Genomic SNP among',chromosome,pos+g_left,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
     # SNP cds positions
     cds_mask = (cds_array[g_left-1:g_right]>0)
     cds_snp_mask = (snp_mask & cds_mask)
@@ -161,9 +164,9 @@ for genename in tqdm(genenamelist):
         bases = [refbase if x == 0 else dic_base_rev[x] for x in np.array(matrix_snp[:,pos].T)[0]]
         context = dic_ref_fa[chromosome][refpos-20:refpos] +'(%s)'%('/'.join(bases)) + dic_ref_fa[chromosome][refpos+1:refpos+21]
         if len(set(bases)) == 1:
-            print ('CDS SNP ref',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+            print ('CDS SNP ref',chromosome,pos+g_left,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
         else:
-            print ('CDS SNP among',chromosome,pos+g_left,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+            print ('CDS SNP among',chromosome,pos+g_left,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
             cds_poly_pos.append(pos)
     mask = cds_snp_mask
     
@@ -221,9 +224,9 @@ for genename in tqdm(genenamelist):
                     bases = [refbase if x == 0 else dic_base_rev[x] for x in np.array(matrix_snp[:,pos].T)[0]]
                     context = dic_ref_fa[chromosome][refpos-20:refpos] +'(%s)'%('/'.join(bases)) + dic_ref_fa[chromosome][refpos+1:refpos+21]
                     if len(set(bases)) == 1:
-                        print ('nonsyn SNP ref',chromosome, realpos,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+                        print ('nonsyn SNP ref',chromosome, realpos,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
                     else:
-                        print ('nonsyn SNP among',chromosome, realpos,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+                        print ('nonsyn SNP among',chromosome, realpos,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
                 else:
                     #print (n,pos_snp,file=Outfile_snp_pos)
                     pos = cds_poly_pos[-(n+1)]
@@ -233,9 +236,9 @@ for genename in tqdm(genenamelist):
                     bases = [refbase if x == 0 else dic_base_rev[x] for x in np.array(matrix_snp[:,pos].T)[0]]
                     context = dic_ref_fa[chromosome][refpos-20:refpos] +'(%s)'%('/'.join(bases)) + dic_ref_fa[chromosome][refpos+1:refpos+21]
                     if len(set(bases)) == 1:
-                        print ('nonsyn SNP ref',chromosome, realpos,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+                        print ('nonsyn SNP ref',chromosome, realpos,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
                     else:
-                        print ('nonsyn SNP among',chromosome, realpos,genename,strand,refbase,context,sep='\t',file=Outfile_snp_pos)
+                        print ('nonsyn SNP among',chromosome, realpos,genename,dic_annot[genename],strand,refbase,context,sep='\t',file=Outfile_snp_pos)
 print('#Done',file=Outfile_nonsynalign)
 print('#Done',file=Outfile_snp_pos)
 Outfile_nonsynalign.close()
